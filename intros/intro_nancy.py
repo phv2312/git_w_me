@@ -1,5 +1,5 @@
 def introduce(msg: str):
-    print (msg)
+    print (f"This is merged: {msg}")
 
 if __name__ == '__main__':
     msg = "Hello world, this is Nancy - Flax QAL Lead, from Cinnamon"
